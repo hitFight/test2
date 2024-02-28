@@ -21,7 +21,7 @@ text = "Gestern lag der LNG-Anteil an allen Gas-Importen bei {} Prozent".format(
 
 print(text)
 
-!pip install pymsteams # Lädt die Bibliothek aus PyPi herunter
+#!pip install pymsteams # Lädt die Bibliothek aus PyPi herunter
 
 import pymsteams # Wrapper Library
 
